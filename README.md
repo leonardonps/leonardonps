@@ -4,6 +4,12 @@
 - 😄 Pronouns: ele/dele
 - 🌎 Fun fact: sempre tentando conectar as línguas portuguesa, espanhola e inglesa ;)
 
+<a href="https://github.com/leonardonps">
+  <img height="250cm" src="https://github-readme-stats.vercel.app/api?username=leonardonps&theme=tokyonight" />
+  <img height="250cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardonps&layout-compact&langs_count=16&theme=tokyonight" />
+</a>
+
+
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
