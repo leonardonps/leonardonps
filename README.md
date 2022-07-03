@@ -6,7 +6,7 @@
 
 <a href="https://github.com/leonardonps">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=leonardonps&theme=tokyonight" />
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardonps&layout-compact&langs_count=16&theme=tokyonight" />
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardonps&layout=compact&langs_count=16&theme=tokyonight" />
 </a>
 
 
