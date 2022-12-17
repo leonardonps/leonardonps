@@ -1,7 +1,8 @@
 ### 👋 Olá, tudo bem? Sou Leonardo e aqui você pode encontrar algumas informações sobre mim. Aproveite!
 
-- 💻 Atualmente, sou estudante de Sistemas para Internet
-- 😄 Pronouns: ele/dele
+- 💻 Estudante de Sistemas para Internet [3/5]
+- 📚 Atualmente, estudando: fundamentos de Java e Python
+- 📙 O que estou lendo agora: "Scrum - The Art of Doing Twice the Work in Half the Time"
 - 🌎 Fun fact: sempre tentando conectar as línguas portuguesa, espanhola e inglesa ;)
 
 <div>
@@ -10,10 +11,3 @@
     <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardonps&layout=compact&langs_count=16&theme=transparent" />
   </a>
 </div>
-
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... -->
-
