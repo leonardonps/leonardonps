@@ -1,8 +1,8 @@
 ### 👋 Olá, tudo bem? Sou Leonardo e aqui você pode encontrar algumas informações sobre mim. Aproveite!
 
 - 💻 Estudante de Sistemas para Internet [3/5]
-- 📚 Estudando: fundamentos de Java e Python
-- 📙 Lendo: "Scrum - The Art of Doing Twice the Work in Half the Time"
+- 📚 Estudando: fundamentos de Java e framework Spring
+- 📙 Lendo: "Head First - Design Patterns"
 - 🌎 Fun fact: sempre tentando conectar as línguas portuguesa, espanhola e inglesa ;)
 
 <div>
