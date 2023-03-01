@@ -3,7 +3,8 @@
 - 💻 Estudante de Sistemas para Internet [3/5]
 - 📚 Estudando: fundamentos de Java e framework Spring
 - 📙 Lendo: "Head First - Design Patterns"
-- 🌎 Fun fact: sempre tentando conectar as línguas portuguesa, espanhola e inglesa ;)
+- 🌎 Fun fact: sempre tentando conectar as línguas portuguesa, espanhola e inglesa (The world is muy grande para solamente saber uma língua 😉) 
+
 
 <div>
   <a href="https://github.com/leonardonps">
