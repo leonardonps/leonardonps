@@ -1,6 +1,6 @@
 ### 👋 Olá, tudo bem? Sou Leonardo e aqui você pode encontrar algumas informações sobre mim. Aproveite!
 
-- 💻 Estudante de Sistemas para Internet [3/5]
+- 💻 Estudante de Sistemas para Internet [4/5]
 - 📚 Estudando: fundamentos de Java e framework Spring
 - 🌎 Fun fact: sempre tentando conectar as línguas portuguesa, espanhola e inglesa :) 
 
